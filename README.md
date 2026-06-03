@@ -4,12 +4,12 @@ Can audio features alone predict whether a song will be a hit?
 That was the question our team set out to answer for our IEOR 142 
 final project at UC Berkeley.
 
-Short answer: not really — but it's more nuanced than that.
+Short answer: not really, but it's more nuanced than that.
 
 Audio features like danceability, energy, and tempo can give you 
 a sense of whether a song has the right qualities, but they can't 
 tell you how popular it'll actually get. What surprised me most 
-was how much song data is out there — over 114,000 tracks — and 
+was how much song data is out there, over 114,000 tracks, and 
 even with all of that, audio features alone aren't enough. 
 
 My take is that combining audio features with user behavior data, 
@@ -26,7 +26,7 @@ song is pretty different from what makes a hit metal song.
 
 ## Demo
 
-[[Watch the 1-minute demo](https://youtu.be/6m1t_k_lsu4)](#) — add your mp4 link here
+[[Watch the 1-minute demo](https://youtu.be/6m1t_k_lsu4)]
 
 ## Team
 
@@ -43,10 +43,10 @@ IEOR 142 Final Project · UC Berkeley · Spring 2026
 
 ## Pipeline
 
-1. EDA — explored 114k tracks across 114 genres
-2. Feature Selection — narrowed to top 10 genres, ran VIF analysis
-3. Modeling — trained XGBoost and Random Forest models per genre
-4. Dashboard — built interactive Streamlit prediction tool
+1. EDA: explored 114k tracks across 114 genres
+2. Feature Selection: narrowed to top 10 genres, ran VIF analysis
+3. Modeling: trained XGBoost and Random Forest models per genre
+4. Dashboard: built interactive Streamlit prediction tool
 
 ## Setup
 
