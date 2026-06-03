@@ -55,8 +55,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-App opens at http://localhost:8501
-
 ## Tech Stack
 
 Python, Streamlit, XGBoost, Scikit-learn, Pandas, Plotly
