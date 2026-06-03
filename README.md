@@ -1,8 +1,7 @@
 # Spotify Hit Predictor
 
 Can audio features alone predict whether a song will be a hit?
-That was the question our team set out to answer for our IEOR 142 
-final project at UC Berkeley.
+That was the question our team set out to answer.
 
 Short answer: not really, but it's more nuanced than that.
 
@@ -31,7 +30,6 @@ song is pretty different from what makes a hit metal song.
 ## Team
 
 Built by Eden, Vivian, Gyssell, Ashley, Michelle, and Kevin
-IEOR 142 Final Project · UC Berkeley · Spring 2026
 
 ## Project Structure
 
